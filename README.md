@@ -1,1 +1,1 @@
-Matplotlib charts
+Matplotlib notes
